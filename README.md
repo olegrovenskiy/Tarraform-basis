@@ -657,8 +657,8 @@ https://c2n.me/4dGHGMK
         }
 
         provider "aws" {
-           access_key = "AKIAX7AYMYUKUTCZ42UV"
-           secret_key = "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"
+           access_key = "********************"
+           secret_key = "********************"
             region    = "eu-central-1"
         }
         data "aws_ami" "ubuntu" {
