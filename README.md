@@ -14,9 +14,9 @@ https://c2n.me/4dGCJYc
 
     terraform {
       backend "s3" {
-       bucket = "bucket-net"
-       key    = "oleg/net-hw/terraform.tfstate"
-        region = "eu-central-1"
+      bucket = "bucket-net"
+      key    = "oleg/net-hw/terraform.tfstate"
+      region = "eu-central-1"
      }
     }
 
